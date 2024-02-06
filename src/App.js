@@ -68,7 +68,10 @@ function App() {
                 </div>
                 <div className="pixelify-sans-1">
                   <br />
-                  Alright! You've unlocked your Valentine
+                  Sweet! You've unlocked your Valentine.
+                  <br />
+                  <br />
+                  <a href="https://t.snapchat.com/exYB2inC" target="_blank" className="pixelify-sans-1 text_white">Ping her</a>
                 </div>
               </>
             ) : (
@@ -77,7 +80,7 @@ function App() {
                 <div>{showNoButton && <span>(I dare you to say no)</span>}</div>
                 <div>
                   <button
-                    className="pixelify-sans-1"
+                    className="pixelify-sans-1 button_text"
                     onClick={() => setShowYes(true)}
                   >
                     Yes

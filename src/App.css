@@ -81,3 +81,12 @@ button:hover {
   font-weight: 500;
   font-style: normal;
 }
+
+.button_text {
+  color: black !important;
+}
+
+.text_white {
+  color: #ffffff;
+  text-decoration: none;
+}
