@@ -71,7 +71,7 @@ function App() {
                   Sweet! You've unlocked your Valentine.
                   <br />
                   <br />
-                  <a href="https://t.snapchat.com/exYB2inC" target="_blank" className="pixelify-sans-1 text_white">Ping her</a>
+                  <a href="https://snapchat.com/add/jenmcqueen007" target="_blank" className="pixelify-sans-1 text_white">Ping her</a>
                 </div>
               </>
             ) : (
@@ -89,7 +89,7 @@ function App() {
                     <button
                       id="noButton"
                       onClick={handleNoButtonClick}
-                      className="pixelify-sans-1"
+                      className="pixelify-sans-1 button_text"
                     >
                       {buttonText}
                     </button>
