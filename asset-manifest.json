@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cringe001/static/css/main.96ed9bdb.css",
-    "main.js": "/cringe001/static/js/main.d169122d.js",
+    "main.js": "/cringe001/static/js/main.d59007a7.js",
     "static/js/592.b7a381d3.chunk.js": "/cringe001/static/js/592.b7a381d3.chunk.js",
     "index.html": "/cringe001/index.html",
     "main.96ed9bdb.css.map": "/cringe001/static/css/main.96ed9bdb.css.map",
-    "main.d169122d.js.map": "/cringe001/static/js/main.d169122d.js.map",
+    "main.d59007a7.js.map": "/cringe001/static/js/main.d59007a7.js.map",
     "592.b7a381d3.chunk.js.map": "/cringe001/static/js/592.b7a381d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96ed9bdb.css",
-    "static/js/main.d169122d.js"
+    "static/js/main.d59007a7.js"
   ]
 }
