@@ -68,7 +68,8 @@ function App() {
                 </div>
                 <div className="pixelify-sans-1">
                   <br />
-                  Sweet! You've unlocked your Valentine.
+                  Sweet! You've unlocked your Valentine! Your Lat.
+                  <br />
                   <br />
                   <br />
                   <a href="https://snapchat.com/add/jenmcqueen007" target="_blank" className="pixelify-sans-1 text_white">Ping her</a>
